@@ -74,10 +74,11 @@
 * [Open source security tools](https://techblog.bozho.net/list-of-open-source-security-tools/)
 * [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/) - _XebiaLabs_ - A collection of DevSecOps tooling categorised by tool functionality.
 
-## Secure Software Guidelines 
+## Secure Software Guidelines - SDLC
 
 - [Cloud Security and DevSecOps Best Practices by Sans.org](https://www.sans.org/security-resources/posters/cloud-security-devsecops-practices/200/download).
 - [pagerduty_security_training_for_engineers_public.pdf](https://sudo.pagerduty.com/assets/pdf/pagerduty_security_training_for_engineers_public.pdf)
+- [secure-coding-practices-quick-reference-guide by OWASP](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migrated_content)
 - [Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/) - _OWASP_ - A framework of security requirements and controls to help developers design and develop secure web applications.
 - [Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) - _CERT_ - A collection of secure development standards for C, C++, Java and Android development.
 - [Proactive Controls](https://owasp.org/www-project-proactive-controls/) - _OWASP_ - OWASP's list of top ten controls that should be implemented in every software development project.
@@ -91,6 +92,12 @@ Frameworks and standards such as the Capability Maturity Model Integration2 (CMM
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - _Microsoft_ - A collection of tools and practices that serve as a framework for the secure development lifecycle.
 - [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
 - [Software Assurance Maturity Model](https://github.com/OWASP/samm) - _OWASP_ - A framework to measure and improve the maturity of the secure development lifecycle.
+
+## Security by Design
+[security-design-with-principles 2021](https://medium.com/ouspg/security-design-with-principles-a8c045765b93)
+[bottom-up-security-testing-security-in-all-levels 2021](https://medium.com/ouspg/bottom-up-security-testing-security-in-all-levels-654e4f7e8ed7)
+[8-security-design-principles-business-solutions](https://www.openbusinesscouncil.org/8-security-design-principles-business-solutions/)
+[Security Design Principles](https://line.17qq.com/articles/klgpomlov.html)
 
 ## Open Source Static Analysis Tools
 * C/C++ - Clang Static Analyzer, Phasar, Cppcheck
@@ -117,6 +124,8 @@ let you practice your skills at exploiting them.
 - [NodeGoat](https://github.com/OWASP/NodeGoat) - _OWASP_ - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
 - [Terragoat](https://github.com/bridgecrewio/terragoat) - _Bridgecrew_ - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - A collection of vulnerable web applications for learning purposes.
+
+## SRE
 
 ## Devops Podcasts
 
