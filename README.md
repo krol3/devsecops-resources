@@ -126,6 +126,8 @@ let you practice your skills at exploiting them.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - A collection of vulnerable web applications for learning purposes.
 
 ## SRE
+- [Squadcast](https://squadcast.com) - _Squadcast_ - Modern Incident Response with Intuitive Actionable Alerting and On-Call. Practice Site Reliability Engineering
+(SRE) through better Incident Management to proactively respond, resolve, and learn from every incident.
 
 ## Devops Podcasts
 
